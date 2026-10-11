@@ -1,0 +1,4 @@
+pymongo
+streamlit
+folium
+streamlit-folium
