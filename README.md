@@ -95,7 +95,7 @@ Le dashboard affiche les métriques `executionStats` en temps réel :
 
 ## 👤 Auteur
 
-**Ayman Elbadry** — Master IA, NoSQL
+**Oumaima EL Habti** — Master IA, NoSQL
 
 ## 📜 Licence
 
